@@ -1,1 +1,28 @@
-
+<Version: 1.01>
+/changelog/changelog.txt http://www.sitew.com/dl/Root/dlpai-changelog.txt
+/data/Actors.json http://www.sitew.com/dl/Root/dlp91-Actors.json
+/data/Map001.json http://www.sitew.com/dl/Root/dlp94-Map001.json
+/data/Map002.json http://www.sitew.com/dl/Root/dlp96-Map002.json
+/js/main.js http://www.sitew.com/dl/Root/dlp97-main.js
+/js/plugins.js http://www.sitew.com/dl/Root/dlp98-plugins.js
+/js/rpg_core.js http://www.sitew.com/dl/Root/dlp9a-rpg_core.js
+/js/rpg_managers.js http://www.sitew.com/dl/Root/dlp9b-rpg_managers.js
+/js/rpg_objects.js http://www.sitew.com/dl/Root/dlp9c-rpg_objects.js
+/js/rpg_scenes.js http://www.sitew.com/dl/Root/dlp9e-rpg_scenes.js
+/js/rpg_sprites.js http://www.sitew.com/dl/Root/dlp9f-rpg_sprites.js
+/js/rpg_windows.js http://www.sitew.com/dl/Root/dlp9g-rpg_windows.js
+/js/plugins/MOG_FakeLoadScreen.js http://www.sitew.com/dl/Root/dlp9i-MOG_FakeLoadScreen.js
+/img/fakeloadscreen/Layout.png http://www.sitew.com/dl/Root/dlpad-Layout.png
+/img/fakeloadscreen/Meter.png http://www.sitew.com/dl/Root/dlp9j-Meter.png
+/img/fakeloadscreen/Picture_1.png http://www.sitew.com/dl/Root/dlp9k-Picture_1.png
+/img/fakeloadscreen/Picture_2.png http://www.sitew.com/dl/Root/dlp9l-Picture_2.png
+/img/fakeloadscreen/Picture_3.png http://www.sitew.com/dl/Root/dlp9q-Picture_3.png
+/img/fakeloadscreen/Picture_4.png http://www.sitew.com/dl/Root/dlp9n-Picture_4.png
+/img/fakeloadscreen/Picture_5.png http://www.sitew.com/dl/Root/dlp9o-Picture_5.png
+/img/fakeloadscreen/Picture_6.png http://www.sitew.com/dl/Root/dlp9p-Picture_6.png
+/img/fakeloadscreen/Picture_7.png http://www.sitew.com/dl/Root/dlpaa-Picture_7.png
+/img/fakeloadscreen/Word.png http://www.sitew.com/dl/Root/dlpab-Word.png
+/img/faces/Goku.png http://www.sitew.com/dl/Root/dlpae-Goku.png
+/img/sv_actors/Goku.png http://www.sitew.com/dl/Root/dlpaf-Goku.png
+/img/characters/Goku.png http://www.sitew.com/dl/Root/dlpag-Goku.png
+<End of Version>
