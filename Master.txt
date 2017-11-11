@@ -1,7 +1,1 @@
-<Version: 1.01>
-/img/system/Gates.png http://www.osoroshiiunmei.sitew.fr/dl/Root/dloxi-Gates.png
-<End of Version>
 
-<Version: 1.00>
-/Changelog & Readme/changelog.txt http://www.osoroshiiunmei.sitew.fr/dl/Root/dlotf-changelog.txt
-<End of Version>
