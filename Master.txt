@@ -1,5 +1,3 @@
 <Version: 1.00>
-
-/data/changelog.txt http://www.osoroshiiunmei.sitew.fr/dl/Root/dlotf-changelog.txt
-
+/save/changelog.txt http://www.osoroshiiunmei.sitew.fr/dl/Root/dlotf-changelog.txt
 <End of Version>
