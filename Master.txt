@@ -1,3 +1,5 @@
 <Version: 1.00>
-/data/Changelog.zip https://wordpress.org/latest.zip
+
+/data/test.zip https://wordpress.org/latest.zip
+
 <End of Version>
