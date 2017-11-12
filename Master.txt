@@ -1,3 +1,7 @@
+<Version: 1.02>
+/changelog/changelog.txt https://www.catupload.com/files/c0771c7192762a985e2d9868ba1799b3.txt
+/img/pictures/Actor_1.png https://www.catupload.com/files/1b3a54d7372c17c4641755fa1bf355b3.png
+<End of Version>
 <Version: 1.01>
 /changelog/version101.zip https://1fichier.com/?z6s8c9pgn9
 <End of Version>
