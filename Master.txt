@@ -1,9 +1,9 @@
 <Version: 1.03>
-/changelog.txt https://drive.google.com/uc?export=download&id=1Ab4gxGnwNLndHAVH8l5Gjao_q7gVLo_6
-/changelog/changelog.txt https://drive.google.com/uc?export=download&id=1Ab4gxGnwNLndHAVH8l5Gjao_q7gVLo_6
-/img/pictures/Actor_1.png https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=18iAgkx2BTJjx5sgRUQper1_XPKxSqlh5
-/img/pictures/Actor_2.png https://drive.google.com/uc?export=download&id=15eUcmud4jvVI-jb8pTo2I5JST_ZlNj7U
-/changelog/VERSION103.zip https://drive.google.com/uc?export=download&id=1_kuQ8i6E44Ua1WJ4l4M3F1lk3j3fuc7a
+/changelog.txt https://drive.google.com/uc?export=download&id=1Ab4gxGnwNLndHAVH8l5Gjao_q7gVLo_6 ;
+/changelog/changelog.txt https://drive.google.com/uc?export=download&id=1Ab4gxGnwNLndHAVH8l5Gjao_q7gVLo_6 ;
+/img/pictures/Actor_1.png https://drive.google.com/uc?export=download&id=https://drive.google.com/open?id=18iAgkx2BTJjx5sgRUQper1_XPKxSqlh5 ;
+/img/pictures/Actor_2.png https://drive.google.com/uc?export=download&id=15eUcmud4jvVI-jb8pTo2I5JST_ZlNj7U ;
+/changelog/VERSION103.zip https://drive.google.com/uc?export=download&id=1_kuQ8i6E44Ua1WJ4l4M3F1lk3j3fuc7a ;
 <End of Version>
 
 <Version: 1.02>
